@@ -1,0 +1,6 @@
+* Juego ejecutable en la versión 2017 de Unity
+
+EQUIPO MATERIA DE ANIMACIÓN Y JUEGOS=============
+- Ángel Arancibia Lara
+- Alexis Bruce Barrios Echalar
+
